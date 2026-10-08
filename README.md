@@ -38,6 +38,7 @@ GROUP BY int_id
 ```
 
 Once I had the data I calculated several fields to find the final crash rate. And got my final result
+Note: I only multiplied the years by 5 beacuse there were only a couple records for 2025, they were kept but ideally should have been removed.
 ```
 - entering_veh	      Integer	    "adt_sum" / 2
 - mev	              Decimal 	    ("entering_veh" * 365.0 * 5) / 1000000.0 
