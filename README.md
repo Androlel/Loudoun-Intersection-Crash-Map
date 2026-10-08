@@ -8,8 +8,8 @@ The result of this experiment showed that on average, intersections with traffic
 All crash rates are in rate per million vehicles. 
 | Group | n | Mean | Median |
 |---|---|---|---|
-| Signalized | 54 | 0.92 | 0.83 | 
-| Unsignalized | 91 | 0.32 | 0.18|
+| Unsignalized | 91 | 0.92 | 0.83 | 
+| Signalized | 54 | 0.32 | 0.18|
 
 ## Data
 - Crash records: VDOT, 2020-2025 https://www.virginiaroads.org/maps/1a96a2f31b4f4d77991471b6cabb38ba/about
